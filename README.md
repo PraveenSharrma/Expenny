@@ -13,6 +13,14 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 
 ---
 
+### 🔐 Demo Login (for testing)
+Use these credentials to explore the app without signing up:
+
+- **Email:** test@gmail.com  
+- **Password:** test123  
+
+---
+
 ## ✨ What this project teaches / demonstrates
 - Next.js App Router for seamless, file-based navigation and layout handling  
 - Firebase Authentication for secure user sign-in / sign-up flows  
@@ -34,6 +42,8 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 - **Auth / Database:** Firebase Authentication & Firestore   
 - **Hosting:** Netlify
 
+---
+
+## 📸 Screenshot
 
 ![Expenny Screenshot](https://raw.githubusercontent.com/PraveenSharrma/Expenny/main/screenshots/expenny.png)
-
