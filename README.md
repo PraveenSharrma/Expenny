@@ -33,3 +33,6 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 - **Framework:** Next.js (App Router)  
 - **Auth / Database:** Firebase Authentication & Firestore   
 - **Hosting:** Netlify
+
+
+[![Expenny Screenshot](https://raw.githubusercontent.com/PraveenSharrma/Expenny/main/screenshots/expenny.png)](https://github.com/PraveenSharrma/Expenny)
