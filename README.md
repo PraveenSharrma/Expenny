@@ -7,7 +7,7 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 
 ## 🚀 Live Demo
 
-<a href="https://expennytracker.netlify.app/" target="_blank">
+<a href="https://expennytrack.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live%20App-Visit-brightgreen?style=for-the-badge&logo=netlify" alt="Live Demo">
 </a>
 
