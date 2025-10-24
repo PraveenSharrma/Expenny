@@ -1,94 +1,37 @@
-# Expenny
+# Subscription Tracker
 
-**Expenny** is a full-stack expense tracker application built to help users log, monitor and manage their spending in real time.  
-My goal: provide a clean, intuitive UI with meaningful insights.
-
----
-
-## 🚀 Live Demo  
-[![Visit Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Now-brightgreen?style=for-the-badge&logo=netlify)](https://expennytracker.netlify.app)
+A real-time subscription tracker built with **Next.js (App Router)**, **Firebase Authentication**, **Firestore** and **FantaCSS**.  
+This full-stack app demonstrates secure user logins, persistent data storage, and dynamic real-time updates.
 
 ---
 
-## ✨ Key Features  
-- User registration & profile management  
-- Add/Edit/Delete expenses with categories and amounts  
-- Filter and sort expenses by date/category  
-- Responsive design — works across desktop, tablet & mobile  
-- Deployed live and accessible via web browser  
+## 🚀 Live Demo
+
+<a href="https://expennytracker.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20App-Visit-brightgreen?style=for-the-badge&logo=netlify" alt="Live Demo">
+</a>
 
 ---
 
-## 🛠 Tech Stack  
-| Layer       | Technologies                     |
-|-------------|----------------------------------|
-| Front-end   | HTML5 · CSS3 · JavaScript        |
-| Back-end    | Node.js · Express.js             |
-| Database    | MongoDB                          |
-| Deployment  | Netlify (front-end) · [Your backend host if applicable] |
+## ✨ What this project teaches / demonstrates
+- Next.js App Router for seamless, file-based navigation and layout handling  
+- Firebase Authentication for secure user sign-in / sign-up flows  
+- Firestore for real-time data storage and live updates  
+- Practical full-stack patterns: user scoping, CRUD operations, and client/server communication
 
 ---
 
-## 📂 Repository Structure  
-/client 🔹 Front-end code & assets
-/server 🔹 Back-end server, API routes & logic
-/models 🔹 Database schema definitions
-/controllers 🔹 Business logic and API handlers
-
-yaml
-Copy code
-
-*Adjust folder names according to your actual structure.*
+## 🔑 Key Features
+- User registration and login (Firebase Auth)  
+- Create, read, update, delete subscriptions (Firestore)  
+- Real-time updates across clients when data changes  
+- Clean UI styled with FantaCSS  
+- Basic input validation and user-scoped data
 
 ---
 
-## 🧩 Getting Started (Local Setup)  
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/PraveenSharrma/Expenny.git
-   cd Expenny
-Install dependencies
-
-bash
-Copy code
-cd server
-npm install
-cd ../client
-npm install
-Set up environment variables
-Create .env in the server folder with keys like:
-
-ini
-Copy code
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-Run locally
-
-bash
-Copy code
-# In server folder
-npm run dev
-
-# In client folder
-npm start
-Visit http://localhost:3000 (or your configured port) for front-end.
-
-✅ Contributing
-Fork the repository
-
-Create a feature branch: git checkout -b feature/YourFeatureName
-
-Commit your changes: git commit -m "Add your feature"
-
-Push: git push origin feature/YourFeatureName
-
-Open a Pull Request detailing your changes
-
-📬 Contact & Connect
-GitHub: PraveenSharrma
-
-Email: sharrmapraveen@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/praveensharrma/
-
-Thank you for checking out Expenny. Happy exploring! 🎉
+## 🛠 Tech Stack
+- **Framework:** Next.js (App Router)  
+- **Auth / Database:** Firebase Authentication & Firestore  
+- **Styling:** FantaCSS (utility / component classes)  
+- **Hosting:** Netlify
