@@ -35,4 +35,5 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 - **Hosting:** Netlify
 
 
-[![Expenny Screenshot](https://raw.githubusercontent.com/PraveenSharrma/Expenny/main/screenshots/expenny.png)](https://github.com/PraveenSharrma/Expenny)
+![Expenny Screenshot](https://raw.githubusercontent.com/PraveenSharrma/Expenny/main/screenshots/expenny.png)
+
