@@ -1,4 +1,4 @@
-# Subscription Tracker
+# Expenny Subscription Tracker
 
 A real-time subscription tracker built with **Next.js (App Router)**, **Firebase Authentication**, **Firestore** and **FantaCSS**.  
 This full-stack app demonstrates secure user logins, persistent data storage, and dynamic real-time updates.
