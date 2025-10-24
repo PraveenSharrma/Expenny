@@ -25,7 +25,6 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 - User registration and login (Firebase Auth)  
 - Create, read, update, delete subscriptions (Firestore)  
 - Real-time updates across clients when data changes  
-- Clean UI styled with FantaCSS  
 - Basic input validation and user-scoped data
 
 ---
