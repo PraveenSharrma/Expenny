@@ -32,6 +32,5 @@ This full-stack app demonstrates secure user logins, persistent data storage, an
 
 ## 🛠 Tech Stack
 - **Framework:** Next.js (App Router)  
-- **Auth / Database:** Firebase Authentication & Firestore  
-- **Styling:** FantaCSS (utility / component classes)  
+- **Auth / Database:** Firebase Authentication & Firestore   
 - **Hosting:** Netlify
