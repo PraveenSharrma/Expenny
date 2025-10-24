@@ -44,6 +44,8 @@ Use these credentials to explore the app without signing up:
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
 ![Expenny Screenshot](https://raw.githubusercontent.com/PraveenSharrma/Expenny/main/screenshots/expenny.png)
+
+
